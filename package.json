@@ -1,0 +1,22 @@
+{
+  "name": "ts-mel-ed",
+  "version": "1.0.0",
+  "description": "Esta es una carpeta donde aprendere typescript ",
+  "keywords": [
+    "typescript",
+    "javascript"
+  ],
+  "license": "ISC",
+  "author": "myoplaf@gmail.com",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "version": "tsc --version",
+    "tsc": "tsc",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
